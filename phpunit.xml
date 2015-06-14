@@ -1,0 +1,8 @@
+<phpunit colors="true"
+         bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="SilexServer">
+            <directory sufix="Test.php">tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
