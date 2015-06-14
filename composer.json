@@ -1,4 +1,14 @@
 {
+    "name": "gabrieljmj/silex-server",
+    "description": "Easily create  web servers for your Silex web application.",
+     "authors": [
+        {
+            "name": "Gabriel Jacinto",
+            "email": "gamjj74@hotmail.com",
+            "homepage": "http://gabrieljmj.github.io"
+        }
+    ],
+    "license": "MIT",
     "require": {
         "silex/silex": "^1.3"
     },
