@@ -1,5 +1,7 @@
 SilexServer
 ===========
+[![Build Status](https://travis-ci.org/GabrielJMJ/SilexServer.svg?branch=master)](https://travis-ci.org/GabrielJMJ/SilexServer) [![License](https://img.shields.io/packagist/l/gabrieljmj/silex-server.svg)](https://packagist.org/packages/gabrieljmj/silex-server) [![Latest Unstable Version](https://img.shields.io/badge/unstable-dev--dev-orange.svg)](https://packagist.org/packages/gabrieljmj/silex-server) [![Total Downloads](https://img.shields.io/packagist/dt/gabrieljmj/silex-server.svg)](https://packagist.org/packages/gabrieljmj/silex-server) [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/gabrieljmj/silex-server.svg)](https://scrutinizer-ci.com/g/GabrielJMJ/SilexServer/?branch=dev)
+
 Easily create  web servers for your Silex web application.
 
 ## Installation
